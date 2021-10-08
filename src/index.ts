@@ -1,0 +1,6 @@
+export { divide } from './divide'
+export { combine } from './combine'
+export { applyWithCache } from './applyWithCache'
+export { mapMax, mapMaxIndex } from './mapMax'
+export { zip } from './zip'
+export { unzip } from './unzip'

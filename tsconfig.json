@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "strict": true,
+        "target": "ES6",
+        "lib": [
+            "ES2020"
+        ],
+        "esModuleInterop": true,
+        "sourceMap": true,
+        "alwaysStrict": true,
+        "skipLibCheck": true
+    }
+}
